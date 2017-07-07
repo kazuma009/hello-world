@@ -1,0 +1,6 @@
+C:\Users\Henry\Desktop\Cal Poly Pomona Stuff\[2017][SPRING] ECE 256\HW9\HW09_01\HW09_01\bin\Debug\HW09_01.exe.config
+C:\Users\Henry\Desktop\Cal Poly Pomona Stuff\[2017][SPRING] ECE 256\HW9\HW09_01\HW09_01\bin\Debug\HW09_01.exe
+C:\Users\Henry\Desktop\Cal Poly Pomona Stuff\[2017][SPRING] ECE 256\HW9\HW09_01\HW09_01\bin\Debug\HW09_01.pdb
+C:\Users\Henry\Desktop\Cal Poly Pomona Stuff\[2017][SPRING] ECE 256\HW9\HW09_01\HW09_01\obj\Debug\HW09_01.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Desktop\Cal Poly Pomona Stuff\[2017][SPRING] ECE 256\HW9\HW09_01\HW09_01\obj\Debug\HW09_01.exe
+C:\Users\Henry\Desktop\Cal Poly Pomona Stuff\[2017][SPRING] ECE 256\HW9\HW09_01\HW09_01\obj\Debug\HW09_01.pdb
